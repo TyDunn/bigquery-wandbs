@@ -1,5 +1,7 @@
 # BigQuery + Weights & Biases
 
+0. You need a BigQuery database with your [Spotify archive](https://www.spotify.com/us/account/privacy/)
+
 1. Create a virtual environment
 ```
 python3 -m venv env
