@@ -1,0 +1,22 @@
+{
+    "os": "macOS-12.4-x86_64-i386-64bit",
+    "python": "3.9.13",
+    "heartbeatAt": "2022-07-21T14:57:10.019918",
+    "startedAt": "2022-07-21T14:57:08.163696",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/ty/Documents/scale-vector/bigquery-wandbs/bigquery-wandbs.py",
+    "codePath": "bigquery-wandbs.py",
+    "git": {
+        "remote": "git@github.com:TyDunn/bigquery-wandbs.git",
+        "commit": "942c52f5c302ff860af69d0bdc4484ce7fe51abd"
+    },
+    "email": "t.dunn@rasa.com",
+    "root": "/Users/ty/Documents/scale-vector/bigquery-wandbs",
+    "host": "BERMB00017.local",
+    "username": "ty",
+    "executable": "/Users/ty/Documents/scale-vector/bigquery-wandbs/env/bin/python3"
+}
